@@ -1,0 +1,36 @@
+requests
+selenium
+chromedriver-binary
+tqdm
+beautifulsoup4
+pandas
+jupyter
+ipywidgets
+webdriver-manager
+ipdb
+ipykernel
+lxml
+ipdb
+tqdm
+pandas
+
+# Testing Library.
+pytest
+pytest-cov
+mypy
+types-beautifulsoup4
+types-requests
+
+# Fast Api 関連
+fastapi
+uvicorn
+starlette
+pydantic
+
+# control library
+numpy
+matplotlib
+scipy
+sympy
+slycot
+control
